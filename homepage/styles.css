@@ -1,0 +1,43 @@
+#earth {
+    width: 40px;
+}
+body {
+    background-image: url("https://media.tenor.com/eQDuTRTKWDcAAAAC/waves-ocean.gif");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.clearfix {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    margin-left: 10px;
+}
+#hello{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    margin-top: 20%;
+}
+.carousel-inner{
+    margin-top: 20px;
+}
+#where {
+    margin-left: 5%;
+    margin-top: 15%;
+}
+.display-6 {
+    color: white;
+    margin-top: 25%;
+    margin-left: 5%;
+}
+#title {
+    color: white;
+    text-shadow: 3px 3px 5px black;
+    margin-top: 350px;
+    margin-left: 220px;;
+    font-family: gloock;
+}
+#but {
+    margin-left: 48%;
+}
