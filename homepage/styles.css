@@ -34,8 +34,8 @@ body {
 #title {
     color: white;
     text-shadow: 3px 3px 5px black;
-    margin-top: 350px;
-    margin-left: 220px;;
+    margin-left: 10%;
+    margin-top: 20%;
     font-family: gloock;
 }
 #but {
